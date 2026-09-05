@@ -1,4 +1,4 @@
-# HTML-Tutorial
+# HTML-Tutorial2
 HTMLの基礎を学習するリポジトリです。
 
 ### 注意点
